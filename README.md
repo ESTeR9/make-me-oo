@@ -33,6 +33,9 @@ However, his trainer told him that what he did is not Object Oriented programmin
 
 Issues with Shivam’s OOP solution:
 	→ No Encapsulation. The DistanceAndDirectionCalculator class is just two methods wrapped in a class and the Point class has only data 
+	
 	→ No Abstraction. There is no point in having getter and setter methods for the Point class and also the variables aren’t declared final which means they can be changed
+	
 	→ In the test, AAA format is not followed
+	
 	→ Setter method is declared but not used
